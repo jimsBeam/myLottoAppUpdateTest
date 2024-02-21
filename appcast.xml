@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MyNewAppTest_(210507)</title>
+        <item>
+            <title>1.0</title>
+            <pubDate>Wed, 21 Feb 2024 14:38:21 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest0.9.dmg" length="27451055" type="application/octet-stream" sparkle:edSignature="/+b2o99pByvE0kxazKf5Y5CA++j7J68hcc/Q7sExRKa9oZhVtlJa2uZuH4HuH3JN3lxdwb+XehyF0YlXIerkDQ=="/>
+        </item>
+    </channel>
+</rss>
