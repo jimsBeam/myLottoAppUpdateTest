@@ -4,11 +4,11 @@
         <title>MyNewAppTest_(210507)</title>
         <item>
             <title>1.0</title>
-            <pubDate>Wed, 21 Feb 2024 14:38:21 -0700</pubDate>
+            <pubDate>Wed, 28 Feb 2024 23:20:57 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest0.9.dmg" length="27451055" type="application/octet-stream" sparkle:edSignature="/+b2o99pByvE0kxazKf5Y5CA++j7J68hcc/Q7sExRKa9oZhVtlJa2uZuH4HuH3JN3lxdwb+XehyF0YlXIerkDQ=="/>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.0.dmg" length="27682516" type="application/octet-stream" sparkle:edSignature="UN0Ada9g0zi7DaP2EwPaAV9/5wf5grzoAtN52Fs6RIXlfTClFWo2MfFB9VHaWyNBK4r3E4b1C6279Zonxg7dCg=="/>
         </item>
     </channel>
 </rss>
