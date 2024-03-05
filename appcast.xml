@@ -1,22 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>MyAppKitSparkleTest</title>
+        <title>MyNewAppTest_(210507)</title>
         <item>
-            <title>1.3</title>
-            <pubDate>Mon, 04 Mar 2024 07:44:41 -0700</pubDate>
-            <sparkle:version>1.3</sparkle:version>
-            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+            <title>1.0</title>
+            <pubDate>Tue, 05 Mar 2024 00:11:08 -0700</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
-<description><![CDATA[
-	<h2>What's New</h2>
-	<ul>
-	<li>Long todos are wrapped to keep menu reasonably narrow.</li>
-	<li>With Luck, the Sparkle updater window will show what is new.<li>
-	</ul>
-	]]>
-	</description>
-            <enclosure url="https://github.com/jimsBeam/myAppKitSparkleUpdateTest/releases/download/prod/MyAppKitSparkleTest1.3.dmg" length="4899151" type="application/octet-stream" sparkle:edSignature="i9zlr/c35xg5+u41w+6MTKK/dIRbQonYaQMEbDHb1RICYJUVN8GbgxdPDsz7BBWbDald+p4jmwIjieX9Co0ZAQ=="/>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyAppKitSparkleTest1.3.dmg" length="27781443" type="application/octet-stream" sparkle:edSignature="OW+CrIvrXHyzzwmuiprtLrOQCmFng29gjRdmTnEYUB4UxX3hxJFgJwDrM6+JIc4RyTApobZiS9ML1chVH4qmCA=="/>
         </item>
     </channel>
 </rss>
