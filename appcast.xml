@@ -6,7 +6,7 @@
             <title>1.0</title>
             <pubDate>Tue, 05 Mar 2024 00:11:08 -0700</pubDate>
             <sparkle:version>1</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyAppKitSparkleTest1.3.dmg" length="27781443" type="application/octet-stream" sparkle:edSignature="OW+CrIvrXHyzzwmuiprtLrOQCmFng29gjRdmTnEYUB4UxX3hxJFgJwDrM6+JIc4RyTApobZiS9ML1chVH4qmCA=="/>
         </item>
