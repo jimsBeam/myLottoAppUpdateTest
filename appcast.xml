@@ -3,10 +3,10 @@
     <channel>
         <title>MyNewAppTest_(210507)</title>
         <item>
-            <title>$Marketing_Version</title>
-            <pubDate>Tue, 05 Mar 2024 17:26:19 -0700</pubDate>
-            <sparkle:version>$Current_Project_Version</sparkle:version>
-            <sparkle:shortVersionString>$Marketing_Version</sparkle:shortVersionString>
+            <title>1.2</title>
+            <pubDate>Tue, 05 Mar 2024 17:56:26 -0700</pubDate>
+            <sparkle:version>1.2</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
 <description><![CDATA[
 	<h2>What's New</h2>
@@ -17,7 +17,7 @@
 	</ul>
 	]]>
 	</description>
-            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.2.dmg" length="27796272" type="application/octet-stream" sparkle:edSignature="/eA9VonxdHWqRtKcybJ2fuITtb5zIhurgqwLeD4Rkds+Oe7svvvCpAm156p0LOdwU3vJkDI+xlt+1EG0OIbnDg=="/>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.2.dmg" length="27793437" type="application/octet-stream" sparkle:edSignature="1Hqza9RcNbLxZGdLJPE4REIrl1ZYkNi2d7phi9V7O0RYWwS6dNTl7hCtxHVWDu8Q5MUSL5STgFTEpLjkCtowCg=="/>
         </item>
     </channel>
 </rss>
