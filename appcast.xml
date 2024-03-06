@@ -3,20 +3,21 @@
     <channel>
         <title>MyNewAppTest_(210507)</title>
         <item>
-            <title>1.1</title>
-            <pubDate>Tue, 05 Mar 2024 04:59:35 -0700</pubDate>
-            <sparkle:version>1.1</sparkle:version>
-            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <title>$Marketing_Version</title>
+            <pubDate>Tue, 05 Mar 2024 17:26:19 -0700</pubDate>
+            <sparkle:version>$Current_Project_Version</sparkle:version>
+            <sparkle:shortVersionString>$Marketing_Version</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
 <description><![CDATA[
 	<h2>What's New</h2>
 	<ul>
-	<li>Long todos are wrapped to keep menu reasonably narrow.</li>
-	<li>With Luck, the Sparkle updater window will show what is new.<li>
+	<li>Minor modifications to the application's User Interface.</li>
+<li>Modified the application's data base retrieval to move Plist files to the Document Directory.</li>
+	<li>Updated the application's ability to restore User Defaults to Factory Settings.<li>
 	</ul>
 	]]>
 	</description>
-            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.1.dmg" length="27784301" type="application/octet-stream" sparkle:edSignature="8xxsCQcpNQhjBeg2E8aqD/J9AF1JRoUgvXFFZYV+jXTv79AE8f6jJWeNsh+S1f0rrau3NilzAvkwnBylcgoSCA=="/>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.2.dmg" length="27796272" type="application/octet-stream" sparkle:edSignature="/eA9VonxdHWqRtKcybJ2fuITtb5zIhurgqwLeD4Rkds+Oe7svvvCpAm156p0LOdwU3vJkDI+xlt+1EG0OIbnDg=="/>
         </item>
     </channel>
 </rss>
