@@ -4,7 +4,7 @@
         <title>MyNewAppTest_(210507)</title>
         <item>
             <title>1.2</title>
-            <pubDate>Tue, 05 Mar 2024 17:56:26 -0700</pubDate>
+            <pubDate>Thu, 07 Mar 2024 14:34:17 -0700</pubDate>
             <sparkle:version>1.2</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.2</sparkle:minimumSystemVersion>
@@ -14,10 +14,11 @@
 	<li>Minor modifications to the application's User Interface.</li>
 <li>Modified the application's data base retrieval to move Plist files to the Document Directory.</li>
 	<li>Updated the application's ability to restore User Defaults to Factory Settings.<li>
+<li>Added the application's ability to illustrate Current Version Window.<li>
 	</ul>
 	]]>
 	</description>
-            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.2.dmg" length="27793437" type="application/octet-stream" sparkle:edSignature="1Hqza9RcNbLxZGdLJPE4REIrl1ZYkNi2d7phi9V7O0RYWwS6dNTl7hCtxHVWDu8Q5MUSL5STgFTEpLjkCtowCg=="/>
+            <enclosure url="https://github.com/jimsBeam/myLottoAppUpdateTest/releases/download/prod/MyNewAppTest1.2.dmg" length="27796819" type="application/octet-stream" sparkle:edSignature="Ym7FHVCyNX4sYGnwW/Kf5oGqYwarum8zQJxgOI+PvXkCSypsJqQ8YI0RpAD7fmjNqH8dKevdXj5VB+U6enEsCA=="/>
         </item>
     </channel>
 </rss>
